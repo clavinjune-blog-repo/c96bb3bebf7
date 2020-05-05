@@ -10,5 +10,5 @@ cd c96bb3bebf7
 
 ### run
 ```sh
-docker-compose up --compatibility
+docker-compose --compatibility up
 ```
